@@ -1,0 +1,9 @@
+lab0509/config/config.json
+sql/attendance-system-3/config/config.json
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+**/config/config.json
