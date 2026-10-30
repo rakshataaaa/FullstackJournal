@@ -1,0 +1,12 @@
+
+{
+  "name": "file-reading",
+  "version": "1.0.0",
+  "description": "Synchronous and Asynchronous File Reading in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
